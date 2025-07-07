@@ -1,13 +1,7 @@
 {
-  "itemGroup.soul_alchemy_jei": "Example Mod Tab",
-  "block.soul_alchemy_jei.example_block": "Example Block",
-  "item.soul_alchemy_jei.example_item": "Example Item",
+  "itemGroup.soul_alchemy_jei": "Soul Alchemy Tab",
 
   "soul_alchemy_jei.configuration.title": "Soul Alchemy JEI Plugin Configs",
   "soul_alchemy_jei.configuration.section.soul_alchemy_jei.common.toml": "Soul Alchemy JEI Plugin Configs",
-  "soul_alchemy_jei.configuration.section.soul_alchemy_jei.common.toml.title": "Soul Alchemy JEI Plugin Configs",
-  "soul_alchemy_jei.configuration.items": "Item List",
-  "soul_alchemy_jei.configuration.logDirtBlock": "Log Dirt Block",
-  "soul_alchemy_jei.configuration.magicNumberIntroduction": "Magic Number Text",
-  "soul_alchemy_jei.configuration.magicNumber": "Magic Number"
+  "soul_alchemy_jei.configuration.section.soul_alchemy_jei.common.toml.title": "Soul Alchemy JEI Plugin Configs"
 }
